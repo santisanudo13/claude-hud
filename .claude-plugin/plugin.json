@@ -1,0 +1,1 @@
+{ "name": "hud", "version": "0.1.0", "description": "Right-docked pane: context used, session spend, remaining credit and clickable pending tasks that fill a ready-made prompt", "types": "./types/index.d.ts" }
