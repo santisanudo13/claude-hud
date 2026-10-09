@@ -9,12 +9,14 @@ A [Claude Code](https://claude.com/claude-code) mod: a right-docked pane showing
 
 ## Install
 
-```bash
-git clone https://github.com/santisanudo13/claude-hud ~/.claude/my-mods/hud
+Inside Claude Code:
+
+```
+/plugin marketplace add santisanudo13/claude-hud
+/plugin install hud@claude-hud
 ```
 
-Then load it as a local mod/plugin from `~/.claude/my-mods/hud` (see the Claude Code
-plugin docs; run `/plugin` or the `plugin-authoring` skill). Restart Claude Code.
+Then restart Claude Code (or run `/reload-plugins`).
 
 ## Develop
 

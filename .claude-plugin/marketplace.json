@@ -1,0 +1,11 @@
+{
+  "name": "claude-hud",
+  "owner": { "name": "santisanudo13" },
+  "plugins": [
+    {
+      "name": "hud",
+      "source": "./",
+      "description": "Right-docked pane: context used, session spend, remaining credit and clickable pending tasks"
+    }
+  ]
+}
